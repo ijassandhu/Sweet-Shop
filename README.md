@@ -89,7 +89,7 @@ The system focuses on **simplicity, performance, and clean UI/UX**, while demons
 - Disabled purchase button when stock reaches zero
 
 ---
-
+'''bash
 ## 🗂️ Project Structure
 
 sweet-shop-management-system/
@@ -128,6 +128,7 @@ sweet-shop-management-system/
     ├── tailwind.config.js      # Tailwind configuration
     └── package.json            # Frontend dependencies
 
+'''
 
 
 ---

@@ -133,24 +133,6 @@ sweet-shop-management-system/
 
 ---
 
-## ⚙️ Setup & Run Instructions
-
-### ✅ Prerequisites
-- Python **3.9+**
-- Node.js **16+**
-- npm
-
----
-
-### 🔧 Backend Setup
-
-```bash
-cd backend
-python -m venv venv
-source venv/bin/activate        # Windows: venv\Scripts\activate
-pip install -r requirements.txt
-uvicorn app.main:app --reload
-````
 
 * API Base URL: `http://localhost:8000`
 * Swagger Docs: `http://localhost:8000/docs`
@@ -246,6 +228,7 @@ AI tools were used responsibly to assist development while maintaining full owne
 ### Tools Used
 
 * ChatGPT
+* Copilot
 
 
 ### How AI Helped

@@ -129,6 +129,7 @@ sweet-shop-management-system/
     └── package.json            # Frontend dependencies
 
 
+
 ---
 
 ## ⚙️ Setup & Run Instructions
